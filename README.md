@@ -21,7 +21,7 @@ $ python3 main.py
     git clone https://github.com/pulkit-mital/samba-usermap-script.git
     pip install requirements.txt
 
-PS: This is simple script and few error are not handled.
+PS: This is simple script and few errors are not handled.
 
 ### Disclaimer:
 
